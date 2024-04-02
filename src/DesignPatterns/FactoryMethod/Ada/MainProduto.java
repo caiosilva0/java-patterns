@@ -15,7 +15,7 @@ public class MainProduto {
         System.out.println(produtoFisico);
 
         /*Retornar instâncias. Antes eu tinha uma responsabilidade de setar, agora a minha Factory
-        que teme essa resposabilidade*/
+        que tem essa responsabilidade*/
 
     }
 }
